@@ -41,22 +41,25 @@ We find that when students complete the same test suite over and over, memorizat
 
 Completing all of these test suites is not necessary, but you should be working on this repo regularly. We see that students are the most successful when they establish a routine for working through these test suites. For example, you might work on them for 45 minutes every morning before class. Find a routine that works best for you and plan ahead so you remain on track to complete the majority of the tests.
 
-### Test Suites
-- [x] 🧚 ‍[Mythical Creatures](./mythical-creatures) - 13 min easy, 16 min medium, 16 min hard
-- [x] ✈️ [Airport](./airport) - DNF very hard Math.abs
-- [x] 🎧 [DJ](./dj) - DNF last one is messed up
-- [x] 🍔 [Favorite Foods](./favorite-foods) - 17 min last one medium .concat
+![Tier List](https://github.com/joh-ann/js-foundations/assets/126308696/a5389430-d42b-4a65-a02e-99fe9223db35)
+
+
+### Test Suites - 20 min time trials
+- [x] 🧚 ‍[Mythical Creatures](./mythical-creatures) - 13 min easy - 16 min medium - 16 min hard
+- [x] ✈️ [Airport](./airport) - DNF very hard, Math.abs
+- [x] 🎧 [DJ](./dj) - DNF, is last one broken?
+- [x] 🍔 [Favorite Foods](./favorite-foods) - 17 min last one medium, .concat
 - [x] 🎮 [Video Games](./video-games/) - 7 min easy
 - [x] 🎂 [Birthdays](./birthdays) - 6 min easy
 - [x] 🗓 [Calendar](./calendar/) - 6 min easy
-- [x] 💵 [Vending Machine](./dollar-store-vending-machine/) - 11 min medium weird styling const
+- [x] 💵 [Vending Machine](./dollar-store-vending-machine/) - 11 min medium, different styling const
 - [x] 🛗 [Elevator](./elevator/) - 6 min light medium
-- [x] 📚 [Library](./library) - DNF medium last one forgot about .length
+- [x] 📚 [Library](./library) - DNF medium, last one forgot about .length
 - [x] 🌮 [Taco Stand](./tacoStand/) - 6 min easy
-- [x] 🧶 [Crafting](./crafting/) - 28 min very hard obj as param
+- [x] 🧶 [Crafting](./crafting/) - 28 min very hard, obj as param
 - [x] ✂️ [Barber Shop](./barber-shop/) - 8 min medium
 - [x] 🥗 [Meal Planning](./meal-planning/) - 7 min easy
-- [x] 🍜 [Restaurant](./restaurant/) - 21 min hard last one .concat obj as param
+- [x] 🍜 [Restaurant](./restaurant/) - 21 min hard, last one .concat, obj as param
 - [x] 🧖‍♀️ [Spa](./spa/) - 11 min medium
 - [x] 🎵 [Spotify](./spotify/) - 11 min light medium
 - [x] 📼 [VHS](./vhs/) - 12 min medium
